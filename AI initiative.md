@@ -30,7 +30,7 @@ We can observe work from two different angles: As **Point System** (discrete out
 The first perspective views work as a series of isolated events where an individual leverages their personal toolkit to produce a static artifact and hand over.
 This model operates on the following formula:
 **Me + My Skills + Experience = Output**
-![[work-flow-pointsystem.png]]
+![work flow pointsystem](work-flow-pointsystem.png)
 In this model, work is episodic. An output is created within a unit of time and then manually handed off to the next person. This creates "fractured knowledge islands", where information is trapped in specific tools (Miro, Figma, Google Drive) and requires manual friction to move forward. Once the output is handed over, the creator "drops the ball," leaving the data to stagnate rather than converting it into a reusable asset.
 
 ### 2.2 Work as Flow: The Continuous System
