@@ -37,7 +37,7 @@ In this model, work is episodic. An output is created within a unit of time and 
 
 The **Work-Flow** approach replaces the Point System with a **Continuous System**. The focus shifts from the isolated completion of a task to the design of the _way of working_ itself. The new formula becomes:
 **Me + Way of Working (Experience + Knowledge + Affinity) = Continuous Generation**
-![[work-flow-flows.png]]
+![work flow flows](work-flow-flows.png)
 Here, the individual does not just produce an artifact as unit of work; they shape a data stream. The "Way of Working" is a composite of professional experience, domain knowledge, and personal affinity, but it is structured in a way that generates output continuously rather than in isolated bursts. We can imagine the flow being: briefing > benchmarking > synthesis > wireframing > testing > validation. 
 
 Advantages:
@@ -159,8 +159,7 @@ A critical component of this system is a standardized directory structure. This 
 To achieve this, we need a "cross-functional team" responsible for the strategy and democratization of these new processes. Testing, validation and changing the concept. 
 It is important to onboard each and everyone into the new behavioral paradigm and base tools, otherwise there would be very little value out of the concept as information islands will be preserved and data missing. At first, this would mean doing the same things in a different way for many. Onboarding on basic concepts would be crucial undertaking. 
 
-![[work-flow-rollout.png]]
-
+![work flow rollout](work-flow-rollout.png)
 ### Phase 1: Centralization (The Hard Skills)
 Here, we would focus on the key basic set of tools, usage and functions. 
 
